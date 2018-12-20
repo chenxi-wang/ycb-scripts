@@ -19,7 +19,7 @@ Scripts to generate and process point clouds in [YCB dataset](http://www.ycbbenc
     python ycb_transform_point_cloud.py
 ```
 
-### Cloud Denoising Using Transformed Clouds
+### Denoise Transformed Clouds
 ```bash
     python ycb_filter_point_cloud.py
 ```
